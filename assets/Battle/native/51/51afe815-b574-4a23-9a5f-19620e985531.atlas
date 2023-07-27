@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1812,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiandun/Comp 1/Comp 1_00000
+  rotate: false
+  xy: 1721, 4
+  size: 83, 60
+  orig: 410, 410
+  offset: 164, 79
+  index: -1
+jiandun/Comp 1/Comp 1_00002
+  rotate: true
+  xy: 1721, 66
+  size: 136, 89
+  orig: 410, 410
+  offset: 137, 60
+  index: -1
+jiandun/Comp 1/Comp 1_00004
+  rotate: true
+  xy: 593, 2
+  size: 163, 254
+  orig: 410, 410
+  offset: 124, 45
+  index: -1
+jiandun/Comp 1/Comp 1_00006
+  rotate: true
+  xy: 849, 12
+  size: 169, 287
+  orig: 410, 410
+  offset: 121, 41
+  index: -1
+jiandun/Comp 1/Comp 1_00008
+  rotate: false
+  xy: 714, 183
+  size: 175, 306
+  orig: 410, 410
+  offset: 118, 36
+  index: -1
+jiandun/Comp 1/Comp 1_00010
+  rotate: false
+  xy: 534, 167
+  size: 178, 322
+  orig: 410, 410
+  offset: 116, 33
+  index: -1
+jiandun/Comp 1/Comp 1_00012
+  rotate: false
+  xy: 352, 147
+  size: 180, 342
+  orig: 410, 410
+  offset: 116, 30
+  index: -1
+jiandun/Comp 1/Comp 1_00014
+  rotate: false
+  xy: 171, 143
+  size: 179, 346
+  orig: 410, 410
+  offset: 115, 30
+  index: -1
+jiandun/Comp 1/Comp 1_00016
+  rotate: false
+  xy: 2, 139
+  size: 167, 350
+  orig: 410, 410
+  offset: 123, 30
+  index: -1
+jiandun/Comp 1/Comp 1_00018
+  rotate: false
+  xy: 1602, 204
+  size: 137, 285
+  orig: 410, 410
+  offset: 135, 98
+  index: -1
+jiandun/Comp 1/Comp 1_00020
+  rotate: true
+  xy: 1432, 56
+  size: 138, 287
+  orig: 410, 410
+  offset: 135, 97
+  index: -1
+jiandun/Comp 1/Comp 1_00022
+  rotate: true
+  xy: 1138, 54
+  size: 139, 292
+  orig: 410, 410
+  offset: 134, 95
+  index: -1
+jiandun/Comp 1/Comp 1_00024
+  rotate: true
+  xy: 298, 2
+  size: 139, 293
+  orig: 410, 410
+  offset: 134, 94
+  index: -1
+jiandun/Comp 1/Comp 1_00026
+  rotate: true
+  xy: 2, 2
+  size: 135, 294
+  orig: 410, 410
+  offset: 136, 94
+  index: -1
+jiandun/Comp 1/Comp 1_00028
+  rotate: false
+  xy: 1179, 195
+  size: 132, 294
+  orig: 410, 410
+  offset: 137, 94
+  index: -1
+jiandun/Comp 1/Comp 1_00030
+  rotate: false
+  xy: 171, 140
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jiandun/Comp 1/gongji
+  rotate: true
+  xy: 891, 195
+  size: 294, 286
+  orig: 294, 294
+  offset: 0, 3
+  index: -1
+jiandun/Comp 2/dun
+  rotate: false
+  xy: 1313, 196
+  size: 287, 293
+  orig: 294, 294
+  offset: 5, 0
+  index: -1

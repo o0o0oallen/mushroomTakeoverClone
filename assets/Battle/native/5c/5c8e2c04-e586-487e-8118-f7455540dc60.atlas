@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1229,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shengji/Comp 1/Comp 1_00000
+  rotate: false
+  xy: 959, 67
+  size: 114, 124
+  orig: 410, 410
+  offset: 142, 39
+  index: -1
+shengji/Comp 1/Comp 1_00002
+  rotate: true
+  xy: 2, 2
+  size: 163, 320
+  orig: 410, 410
+  offset: 121, 46
+  index: -1
+shengji/Comp 1/Comp 1_00004
+  rotate: true
+  xy: 628, 2
+  size: 185, 329
+  orig: 410, 410
+  offset: 116, 36
+  index: -1
+shengji/Comp 1/Comp 1_00006
+  rotate: false
+  xy: 1034, 198
+  size: 193, 335
+  orig: 410, 410
+  offset: 112, 31
+  index: -1
+shengji/Comp 1/Comp 1_00008
+  rotate: false
+  xy: 833, 193
+  size: 199, 340
+  orig: 410, 410
+  offset: 109, 26
+  index: -1
+shengji/Comp 1/Comp 1_00010
+  rotate: false
+  xy: 628, 189
+  size: 203, 344
+  orig: 410, 410
+  offset: 107, 22
+  index: -1
+shengji/Comp 1/Comp 1_00012
+  rotate: false
+  xy: 420, 183
+  size: 206, 350
+  orig: 410, 410
+  offset: 106, 19
+  index: -1
+shengji/Comp 1/Comp 1_00014
+  rotate: false
+  xy: 211, 169
+  size: 207, 364
+  orig: 410, 410
+  offset: 105, 18
+  index: -1
+shengji/Comp 1/Comp 1_00016
+  rotate: false
+  xy: 2, 167
+  size: 207, 366
+  orig: 410, 410
+  offset: 104, 16
+  index: -1
+shengji/Comp 1/Comp 1_00018
+  rotate: true
+  xy: 437, 44
+  size: 137, 180
+  orig: 410, 410
+  offset: 142, 190
+  index: -1
+shengji/Comp 1/Comp 1_00020
+  rotate: false
+  xy: 324, 6
+  size: 111, 161
+  orig: 410, 410
+  offset: 150, 190
+  index: -1
+shengji/Comp 1/Comp 1_00022
+  rotate: false
+  xy: 1075, 100
+  size: 93, 96
+  orig: 410, 410
+  offset: 160, 237
+  index: -1
+shengji/Comp 1/Comp 1_00024
+  rotate: false
+  xy: 959, 16
+  size: 86, 49
+  orig: 410, 410
+  offset: 164, 279
+  index: -1
+shengji/Comp 1/Comp 1_00026
+  rotate: true
+  xy: 437, 10
+  size: 32, 46
+  orig: 410, 410
+  offset: 215, 278
+  index: -1
+shengji/Comp 1/↑
+  rotate: false
+  xy: 1170, 158
+  size: 44, 38
+  orig: 46, 40
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1257,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+无敌防御/wudifangyu_00002
+  rotate: true
+  xy: 1139, 209
+  size: 81, 112
+  orig: 400, 225
+  offset: 109, 51
+  index: -1
+无敌防御/wudifangyu_00003
+  rotate: true
+  xy: 1139, 292
+  size: 84, 116
+  orig: 400, 225
+  offset: 109, 47
+  index: -1
+无敌防御/wudifangyu_00005
+  rotate: false
+  xy: 964, 229
+  size: 173, 147
+  orig: 400, 225
+  offset: 109, 31
+  index: -1
+无敌防御/wudifangyu_00007
+  rotate: true
+  xy: 795, 204
+  size: 172, 167
+  orig: 400, 225
+  offset: 109, 16
+  index: -1
+无敌防御/wudifangyu_00009
+  rotate: true
+  xy: 405, 19
+  size: 161, 201
+  orig: 400, 225
+  offset: 115, 0
+  index: -1
+无敌防御/wudifangyu_00011
+  rotate: true
+  xy: 2, 5
+  size: 167, 202
+  orig: 400, 225
+  offset: 109, 0
+  index: -1
+无敌防御/wudifangyu_00013
+  rotate: true
+  xy: 203, 182
+  size: 194, 204
+  orig: 400, 225
+  offset: 109, 0
+  index: -1
+无敌防御/wudifangyu_00015
+  rotate: true
+  xy: 2, 174
+  size: 202, 199
+  orig: 400, 225
+  offset: 109, 0
+  index: -1
+无敌防御/wudifangyu_00017
+  rotate: true
+  xy: 409, 184
+  size: 192, 186
+  orig: 400, 225
+  offset: 117, 10
+  index: -1
+无敌防御/wudifangyu_00019
+  rotate: false
+  xy: 954, 6
+  size: 195, 196
+  orig: 400, 225
+  offset: 113, 3
+  index: -1
+无敌防御/wudifangyu_00021
+  rotate: true
+  xy: 597, 194
+  size: 182, 196
+  orig: 400, 225
+  offset: 122, 4
+  index: -1
+无敌防御/wudifangyu_00023
+  rotate: true
+  xy: 206, 2
+  size: 178, 197
+  orig: 400, 225
+  offset: 129, 2
+  index: -1
+无敌防御/wudifangyu_00025
+  rotate: false
+  xy: 789, 4
+  size: 163, 188
+  orig: 400, 225
+  offset: 145, 5
+  index: -1
+无敌防御/wudifangyu_00027
+  rotate: false
+  xy: 608, 13
+  size: 179, 179
+  orig: 400, 225
+  offset: 130, 10
+  index: -1
+无敌防御/wudifangyu_00029
+  rotate: true
+  xy: 1151, 116
+  size: 91, 103
+  orig: 400, 225
+  offset: 213, 24
+  index: -1
+无敌防御/wudifangyu_00031
+  rotate: true
+  xy: 1151, 42
+  size: 72, 73
+  orig: 400, 225
+  offset: 222, 33
+  index: -1

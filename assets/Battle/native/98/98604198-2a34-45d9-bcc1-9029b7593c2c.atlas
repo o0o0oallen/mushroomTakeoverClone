@@ -1,0 +1,258 @@
+
+skeleton.png
+size: 472,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie
+  rotate: false
+  xy: 163, 379
+  size: 164, 61
+  orig: 164, 61
+  offset: 0, 0
+  index: -1
+dilie02
+  rotate: false
+  xy: 157, 317
+  size: 164, 60
+  orig: 164, 60
+  offset: 0, 0
+  index: -1
+dizuo_g
+  rotate: false
+  xy: 288, 201
+  size: 164, 48
+  orig: 175, 51
+  offset: 5, 2
+  index: -1
+jitui
+  rotate: false
+  xy: 262, 116
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+jitui02
+  rotate: true
+  xy: 266, 27
+  size: 87, 76
+  orig: 87, 83
+  offset: 0, 7
+  index: -1
+wei
+  rotate: false
+  xy: 351, 82
+  size: 117, 117
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+爆炸/爆炸_00000
+  rotate: false
+  xy: 344, 35
+  size: 81, 45
+  orig: 234, 234
+  offset: 77, 57
+  index: -1
+爆炸/爆炸_00001
+  rotate: false
+  xy: 344, 35
+  size: 81, 45
+  orig: 234, 234
+  offset: 77, 57
+  index: -1
+爆炸/爆炸_00002
+  rotate: false
+  xy: 344, 35
+  size: 81, 45
+  orig: 234, 234
+  offset: 77, 57
+  index: -1
+爆炸/爆炸_00003
+  rotate: false
+  xy: 329, 359
+  size: 137, 87
+  orig: 234, 234
+  offset: 46, 49
+  index: -1
+爆炸/爆炸_00004
+  rotate: false
+  xy: 329, 359
+  size: 137, 87
+  orig: 234, 234
+  offset: 46, 49
+  index: -1
+爆炸/爆炸_00005
+  rotate: false
+  xy: 321, 448
+  size: 149, 94
+  orig: 234, 234
+  offset: 41, 51
+  index: -1
+爆炸/爆炸_00006
+  rotate: false
+  xy: 321, 448
+  size: 149, 94
+  orig: 234, 234
+  offset: 41, 51
+  index: -1
+爆炸/爆炸_00007
+  rotate: false
+  xy: 321, 448
+  size: 149, 94
+  orig: 234, 234
+  offset: 41, 51
+  index: -1
+爆炸/爆炸_00008
+  rotate: false
+  xy: 163, 442
+  size: 156, 100
+  orig: 234, 234
+  offset: 39, 48
+  index: -1
+爆炸/爆炸_00009
+  rotate: false
+  xy: 163, 442
+  size: 156, 100
+  orig: 234, 234
+  offset: 39, 48
+  index: -1
+爆炸/爆炸_00010
+  rotate: false
+  xy: 2, 432
+  size: 159, 110
+  orig: 234, 234
+  offset: 38, 47
+  index: -1
+爆炸/爆炸_00011
+  rotate: false
+  xy: 2, 432
+  size: 159, 110
+  orig: 234, 234
+  offset: 38, 47
+  index: -1
+爆炸/爆炸_00012
+  rotate: false
+  xy: 2, 220
+  size: 150, 104
+  orig: 234, 234
+  offset: 48, 60
+  index: -1
+爆炸/爆炸_00013
+  rotate: false
+  xy: 2, 220
+  size: 150, 104
+  orig: 234, 234
+  offset: 48, 60
+  index: -1
+爆炸/爆炸_00014
+  rotate: false
+  xy: 2, 220
+  size: 150, 104
+  orig: 234, 234
+  offset: 48, 60
+  index: -1
+爆炸/爆炸_00015
+  rotate: false
+  xy: 2, 326
+  size: 153, 104
+  orig: 234, 234
+  offset: 46, 64
+  index: -1
+爆炸/爆炸_00016
+  rotate: false
+  xy: 2, 326
+  size: 153, 104
+  orig: 234, 234
+  offset: 46, 64
+  index: -1
+爆炸/爆炸_00017
+  rotate: false
+  xy: 2, 108
+  size: 128, 110
+  orig: 234, 234
+  offset: 46, 66
+  index: -1
+爆炸/爆炸_00018
+  rotate: false
+  xy: 2, 108
+  size: 128, 110
+  orig: 234, 234
+  offset: 46, 66
+  index: -1
+爆炸/爆炸_00019
+  rotate: false
+  xy: 2, 108
+  size: 128, 110
+  orig: 234, 234
+  offset: 46, 66
+  index: -1
+爆炸/爆炸_00020
+  rotate: false
+  xy: 132, 108
+  size: 128, 107
+  orig: 234, 234
+  offset: 46, 70
+  index: -1
+爆炸/爆炸_00021
+  rotate: false
+  xy: 132, 108
+  size: 128, 107
+  orig: 234, 234
+  offset: 46, 70
+  index: -1
+爆炸/爆炸_00022
+  rotate: false
+  xy: 323, 251
+  size: 128, 106
+  orig: 234, 234
+  offset: 46, 73
+  index: -1
+爆炸/爆炸_00023
+  rotate: false
+  xy: 323, 251
+  size: 128, 106
+  orig: 234, 234
+  offset: 46, 73
+  index: -1
+爆炸/爆炸_00024
+  rotate: false
+  xy: 2, 2
+  size: 129, 104
+  orig: 234, 234
+  offset: 44, 77
+  index: -1
+爆炸/爆炸_00025
+  rotate: false
+  xy: 2, 2
+  size: 129, 104
+  orig: 234, 234
+  offset: 44, 77
+  index: -1
+爆炸/爆炸_00026
+  rotate: false
+  xy: 2, 2
+  size: 129, 104
+  orig: 234, 234
+  offset: 44, 77
+  index: -1
+爆炸/爆炸_00027
+  rotate: false
+  xy: 154, 217
+  size: 132, 98
+  orig: 234, 234
+  offset: 41, 85
+  index: -1
+爆炸/爆炸_00028
+  rotate: false
+  xy: 154, 217
+  size: 132, 98
+  orig: 234, 234
+  offset: 41, 85
+  index: -1
+爆炸/爆炸_00029
+  rotate: false
+  xy: 133, 9
+  size: 131, 97
+  orig: 234, 234
+  offset: 42, 87
+  index: -1

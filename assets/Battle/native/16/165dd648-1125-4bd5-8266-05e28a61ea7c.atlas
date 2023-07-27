@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1637,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+woniuke/Comp 1_00000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+woniuke/Comp 1_00038
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+woniuke/Comp 1_00002
+  rotate: true
+  xy: 1490, 60
+  size: 127, 144
+  orig: 365, 205
+  offset: 86, 21
+  index: -1
+woniuke/Comp 1_00004
+  rotate: false
+  xy: 991, 24
+  size: 158, 162
+  orig: 365, 205
+  offset: 86, 20
+  index: -1
+woniuke/Comp 1_00006
+  rotate: true
+  xy: 822, 18
+  size: 168, 167
+  orig: 365, 205
+  offset: 87, 20
+  index: -1
+woniuke/Comp 1_00008
+  rotate: true
+  xy: 623, 13
+  size: 173, 197
+  orig: 365, 205
+  offset: 88, 8
+  index: -1
+woniuke/Comp 1_00010
+  rotate: true
+  xy: 209, 10
+  size: 176, 205
+  orig: 365, 205
+  offset: 86, 0
+  index: -1
+woniuke/Comp 1_00012
+  rotate: true
+  xy: 2, 5
+  size: 181, 205
+  orig: 365, 205
+  offset: 87, 0
+  index: -1
+woniuke/Comp 1_00014
+  rotate: false
+  xy: 803, 188
+  size: 196, 205
+  orig: 365, 205
+  offset: 87, 0
+  index: -1
+woniuke/Comp 1_00016
+  rotate: false
+  xy: 1001, 188
+  size: 196, 205
+  orig: 365, 205
+  offset: 88, 0
+  index: -1
+woniuke/Comp 1_00018
+  rotate: false
+  xy: 2, 188
+  size: 200, 205
+  orig: 365, 205
+  offset: 86, 0
+  index: -1
+woniuke/Comp 1_00020
+  rotate: false
+  xy: 204, 188
+  size: 198, 205
+  orig: 365, 205
+  offset: 87, 0
+  index: -1
+woniuke/Comp 1_00022
+  rotate: false
+  xy: 604, 188
+  size: 197, 205
+  orig: 365, 205
+  offset: 87, 0
+  index: -1
+woniuke/Comp 1_00024
+  rotate: false
+  xy: 404, 188
+  size: 198, 205
+  orig: 365, 205
+  offset: 88, 0
+  index: -1
+woniuke/Comp 1_00026
+  rotate: false
+  xy: 1199, 188
+  size: 188, 205
+  orig: 365, 205
+  offset: 98, 0
+  index: -1
+woniuke/Comp 1_00028
+  rotate: true
+  xy: 416, 12
+  size: 174, 205
+  orig: 365, 205
+  offset: 111, 0
+  index: -1
+woniuke/Comp 1_00030
+  rotate: true
+  xy: 1283, 38
+  size: 148, 205
+  orig: 365, 205
+  offset: 136, 0
+  index: -1
+woniuke/Comp 1_00032
+  rotate: false
+  xy: 1389, 189
+  size: 133, 204
+  orig: 365, 205
+  offset: 153, 1
+  index: -1
+woniuke/Comp 1_00034
+  rotate: false
+  xy: 1151, 25
+  size: 130, 161
+  orig: 365, 205
+  offset: 156, 2
+  index: -1
+woniuke/Comp 1_00036
+  rotate: false
+  xy: 1524, 261
+  size: 111, 132
+  orig: 365, 205
+  offset: 174, 13
+  index: -1

@@ -1,0 +1,272 @@
+
+skeleton.png
+size: 1895,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+毁灭打击/Comp 1/gaoguang
+  rotate: false
+  xy: 2, 73
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+毁灭打击/Comp 1/huimie_00000
+  rotate: false
+  xy: 1858, 174
+  size: 35, 93
+  orig: 360, 202
+  offset: 158, 77
+  index: -1
+毁灭打击/Comp 1/huimie_00001
+  rotate: false
+  xy: 1858, 174
+  size: 35, 93
+  orig: 360, 202
+  offset: 158, 77
+  index: -1
+毁灭打击/Comp 1/huimie_00002
+  rotate: false
+  xy: 368, 109
+  size: 46, 158
+  orig: 360, 202
+  offset: 157, 11
+  index: -1
+毁灭打击/Comp 1/huimie_00003
+  rotate: false
+  xy: 416, 110
+  size: 65, 157
+  orig: 360, 202
+  offset: 150, 9
+  index: -1
+毁灭打击/Comp 1/huimie_00004
+  rotate: false
+  xy: 291, 107
+  size: 75, 160
+  orig: 360, 202
+  offset: 148, 9
+  index: -1
+毁灭打击/Comp 1/huimie_00005
+  rotate: true
+  xy: 2, 3
+  size: 68, 156
+  orig: 360, 202
+  offset: 152, 8
+  index: -1
+毁灭打击/Comp 1/huimie_00006
+  rotate: true
+  xy: 2, 3
+  size: 68, 156
+  orig: 360, 202
+  offset: 152, 8
+  index: -1
+毁灭打击/Comp 1/huimie_00007
+  rotate: false
+  xy: 160, 3
+  size: 74, 68
+  orig: 360, 202
+  offset: 143, 13
+  index: -1
+毁灭打击/Comp 1/huimie_00008
+  rotate: false
+  xy: 198, 107
+  size: 91, 160
+  orig: 360, 202
+  offset: 131, 8
+  index: -1
+毁灭打击/Comp 1/huimie_00009
+  rotate: true
+  xy: 439, 3
+  size: 105, 113
+  orig: 360, 202
+  offset: 122, 6
+  index: -1
+毁灭打击/Comp 1/huimie_00010
+  rotate: false
+  xy: 1088, 7
+  size: 120, 123
+  orig: 360, 202
+  offset: 118, 3
+  index: -1
+毁灭打击/Comp 1/huimie_00011
+  rotate: false
+  xy: 1600, 9
+  size: 120, 123
+  orig: 360, 202
+  offset: 118, 3
+  index: -1
+毁灭打击/Comp 1/huimie_00012
+  rotate: false
+  xy: 690, 2
+  size: 124, 127
+  orig: 360, 202
+  offset: 116, 2
+  index: -1
+毁灭打击/Comp 1/huimie_00013
+  rotate: true
+  xy: 816, 2
+  size: 128, 133
+  orig: 360, 202
+  offset: 115, 0
+  index: -1
+毁灭打击/Comp 1/huimie_00014
+  rotate: true
+  xy: 554, 2
+  size: 127, 134
+  orig: 360, 202
+  offset: 115, 0
+  index: -1
+毁灭打击/Comp 1/huimie_00015
+  rotate: false
+  xy: 741, 132
+  size: 126, 135
+  orig: 360, 202
+  offset: 116, 0
+  index: -1
+毁灭打击/Comp 1/huimie_00016
+  rotate: false
+  xy: 869, 132
+  size: 126, 135
+  orig: 360, 202
+  offset: 116, 0
+  index: -1
+毁灭打击/Comp 1/huimie_00017
+  rotate: true
+  xy: 951, 4
+  size: 126, 135
+  orig: 360, 202
+  offset: 116, 0
+  index: -1
+毁灭打击/Comp 1/huimie_00018
+  rotate: false
+  xy: 997, 132
+  size: 124, 135
+  orig: 360, 202
+  offset: 116, 1
+  index: -1
+毁灭打击/Comp 1/huimie_00019
+  rotate: false
+  xy: 997, 132
+  size: 124, 135
+  orig: 360, 202
+  offset: 116, 1
+  index: -1
+毁灭打击/Comp 1/huimie_00020
+  rotate: false
+  xy: 1258, 134
+  size: 122, 133
+  orig: 360, 202
+  offset: 116, 2
+  index: -1
+毁灭打击/Comp 1/huimie_00021
+  rotate: false
+  xy: 1382, 134
+  size: 122, 133
+  orig: 360, 202
+  offset: 116, 2
+  index: -1
+毁灭打击/Comp 1/huimie_00022
+  rotate: false
+  xy: 1506, 134
+  size: 122, 133
+  orig: 360, 202
+  offset: 116, 2
+  index: -1
+毁灭打击/Comp 1/huimie_00023
+  rotate: true
+  xy: 1210, 3
+  size: 129, 133
+  orig: 360, 202
+  offset: 116, 2
+  index: -1
+毁灭打击/Comp 1/huimie_00024
+  rotate: false
+  xy: 1123, 134
+  size: 133, 133
+  orig: 360, 202
+  offset: 116, 2
+  index: -1
+毁灭打击/Comp 1/huimie_00026
+  rotate: true
+  xy: 483, 131
+  size: 136, 131
+  orig: 360, 202
+  offset: 119, 2
+  index: -1
+毁灭打击/Comp 1/huimie_00028
+  rotate: false
+  xy: 1345, 3
+  size: 129, 129
+  orig: 360, 202
+  offset: 110, 3
+  index: -1
+毁灭打击/Comp 1/huimie_00030
+  rotate: true
+  xy: 616, 131
+  size: 136, 123
+  orig: 360, 202
+  offset: 121, 8
+  index: -1
+毁灭打击/Comp 1/huimie_00032
+  rotate: true
+  xy: 1476, 3
+  size: 129, 122
+  orig: 360, 202
+  offset: 121, 9
+  index: -1
+毁灭打击/Comp 1/huimie_00034
+  rotate: false
+  xy: 1630, 148
+  size: 115, 119
+  orig: 360, 202
+  offset: 121, 12
+  index: -1
+毁灭打击/Comp 1/huimie_00036
+  rotate: false
+  xy: 1722, 33
+  size: 113, 113
+  orig: 360, 202
+  offset: 121, 15
+  index: -1
+毁灭打击/Comp 1/huimie_00038
+  rotate: true
+  xy: 1747, 157
+  size: 110, 109
+  orig: 360, 202
+  offset: 122, 17
+  index: -1
+毁灭打击/Comp 1/huimie_00040
+  rotate: false
+  xy: 236, 4
+  size: 105, 101
+  orig: 360, 202
+  offset: 123, 23
+  index: -1
+毁灭打击/Comp 1/huimie_00042
+  rotate: true
+  xy: 343, 5
+  size: 100, 94
+  orig: 360, 202
+  offset: 125, 28
+  index: -1
+毁灭打击/Comp 1/huimie_00044
+  rotate: true
+  xy: 1837, 64
+  size: 91, 52
+  orig: 360, 202
+  offset: 130, 64
+  index: -1
+毁灭打击/Comp 1/huimie_00046
+  rotate: false
+  xy: 1722, 5
+  size: 86, 26
+  orig: 360, 202
+  offset: 133, 67
+  index: -1
+毁灭打击/Comp 1/huimie_00048
+  rotate: false
+  xy: 1600, 2
+  size: 6, 5
+  orig: 360, 202
+  offset: 204, 80
+  index: -1

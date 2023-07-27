@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 569,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+集体衰减/jiantou
+  rotate: false
+  xy: 505, 85
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+集体衰减/shuaijian_00002
+  rotate: false
+  xy: 114, 13
+  size: 112, 120
+  orig: 400, 225
+  offset: 134, 45
+  index: -1
+集体衰减/shuaijian_00004
+  rotate: false
+  xy: 225, 149
+  size: 109, 116
+  orig: 400, 225
+  offset: 137, 42
+  index: -1
+集体衰减/shuaijian_00006
+  rotate: true
+  xy: 336, 171
+  size: 94, 92
+  orig: 400, 225
+  offset: 148, 54
+  index: -1
+集体衰减/shuaijian_00008
+  rotate: false
+  xy: 417, 85
+  size: 86, 84
+  orig: 400, 225
+  offset: 152, 58
+  index: -1
+集体衰减/shuaijian_00010
+  rotate: false
+  xy: 417, 2
+  size: 80, 81
+  orig: 400, 225
+  offset: 155, 57
+  index: -1
+集体衰减/shuaijian_00012
+  rotate: false
+  xy: 430, 192
+  size: 71, 73
+  orig: 400, 225
+  offset: 159, 60
+  index: -1
+集体衰减/shuaijian_00014
+  rotate: false
+  xy: 503, 197
+  size: 64, 68
+  orig: 400, 225
+  offset: 166, 57
+  index: -1
+集体衰减/shuaijian_00016
+  rotate: false
+  xy: 499, 4
+  size: 62, 79
+  orig: 400, 225
+  offset: 168, 54
+  index: -1
+集体衰减/shuaijian_00018
+  rotate: false
+  xy: 331, 40
+  size: 84, 107
+  orig: 400, 225
+  offset: 154, 52
+  index: -1
+集体衰减/shuaijian_00020
+  rotate: false
+  xy: 228, 31
+  size: 101, 116
+  orig: 400, 225
+  offset: 148, 47
+  index: -1
+集体衰减/shuaijian_00022
+  rotate: false
+  xy: 2, 6
+  size: 110, 127
+  orig: 400, 225
+  offset: 145, 44
+  index: -1
+集体衰减/shuaijian_00024
+  rotate: false
+  xy: 2, 135
+  size: 112, 130
+  orig: 400, 225
+  offset: 143, 45
+  index: -1
+集体衰减/shuaijian_00026
+  rotate: false
+  xy: 116, 140
+  size: 107, 125
+  orig: 400, 225
+  offset: 143, 50
+  index: -1
+集体衰减/shuaijian_00028
+  rotate: false
+  xy: 505, 127
+  size: 43, 68
+  orig: 400, 225
+  offset: 182, 108
+  index: -1
+集体衰减/shuaijian_00030
+  rotate: true
+  xy: 331, 3
+  size: 35, 34
+  orig: 400, 225
+  offset: 185, 141
+  index: -1
+集体衰减/shuaijian_00032
+  rotate: false
+  xy: 228, 2
+  size: 26, 27
+  orig: 400, 225
+  offset: 186, 147
+  index: -1
+集体衰减/shuaijian_00034
+  rotate: false
+  xy: 256, 12
+  size: 16, 17
+  orig: 400, 225
+  offset: 190, 153
+  index: -1

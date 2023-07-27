@@ -1,0 +1,265 @@
+
+skeleton.png
+size: 854,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2D小兵特效/liehuo/Comp 1/liehuo_00001
+  rotate: false
+  xy: 718, 139
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00003
+  rotate: true
+  xy: 713, 35
+  size: 102, 101
+  orig: 126, 135
+  offset: 6, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00005
+  rotate: false
+  xy: 483, 9
+  size: 92, 119
+  orig: 126, 135
+  offset: 16, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00007
+  rotate: false
+  xy: 2, 2
+  size: 95, 126
+  orig: 126, 135
+  offset: 16, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00009
+  rotate: false
+  xy: 746, 392
+  size: 104, 129
+  orig: 126, 135
+  offset: 18, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00011
+  rotate: false
+  xy: 373, 130
+  size: 111, 129
+  orig: 126, 135
+  offset: 11, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00013
+  rotate: false
+  xy: 486, 131
+  size: 117, 129
+  orig: 126, 135
+  offset: 5, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00015
+  rotate: false
+  xy: 250, 130
+  size: 121, 129
+  orig: 126, 135
+  offset: 1, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00017
+  rotate: true
+  xy: 230, 6
+  size: 122, 128
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00019
+  rotate: false
+  xy: 2, 392
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00021
+  rotate: false
+  xy: 2, 261
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00023
+  rotate: false
+  xy: 126, 392
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00025
+  rotate: false
+  xy: 2, 130
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00035
+  rotate: false
+  xy: 2, 130
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00027
+  rotate: false
+  xy: 374, 262
+  size: 122, 128
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00037
+  rotate: false
+  xy: 374, 262
+  size: 122, 128
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00029
+  rotate: false
+  xy: 126, 261
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00039
+  rotate: false
+  xy: 126, 261
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00031
+  rotate: false
+  xy: 250, 392
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00041
+  rotate: false
+  xy: 250, 392
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00051
+  rotate: false
+  xy: 250, 392
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00033
+  rotate: false
+  xy: 126, 130
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00043
+  rotate: true
+  xy: 99, 6
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00045
+  rotate: false
+  xy: 250, 261
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00047
+  rotate: false
+  xy: 622, 264
+  size: 122, 127
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00049
+  rotate: false
+  xy: 498, 393
+  size: 122, 128
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00053
+  rotate: false
+  xy: 374, 392
+  size: 122, 129
+  orig: 126, 135
+  offset: 0, 4
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00055
+  rotate: false
+  xy: 498, 263
+  size: 122, 128
+  orig: 126, 135
+  offset: 0, 5
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00057
+  rotate: false
+  xy: 622, 393
+  size: 122, 128
+  orig: 126, 135
+  offset: 0, 5
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00059
+  rotate: true
+  xy: 360, 6
+  size: 122, 121
+  orig: 126, 135
+  offset: 0, 8
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00061
+  rotate: true
+  xy: 605, 139
+  size: 122, 111
+  orig: 126, 135
+  offset: 0, 13
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00063
+  rotate: true
+  xy: 746, 268
+  size: 122, 106
+  orig: 126, 135
+  offset: 0, 16
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00065
+  rotate: true
+  xy: 718, 142
+  size: 120, 95
+  orig: 126, 135
+  offset: 0, 20
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00067
+  rotate: true
+  xy: 577, 11
+  size: 118, 83
+  orig: 126, 135
+  offset: 0, 27
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00069
+  rotate: true
+  xy: 662, 23
+  size: 114, 49
+  orig: 126, 135
+  offset: 1, 41
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00071
+  rotate: false
+  xy: 815, 241
+  size: 34, 25
+  orig: 126, 135
+  offset: 5, 52
+  index: -1
+2D小兵特效/liehuo/Comp 1/liehuo_00073
+  rotate: false
+  xy: 815, 221
+  size: 28, 18
+  orig: 126, 135
+  offset: 7, 55
+  index: -1

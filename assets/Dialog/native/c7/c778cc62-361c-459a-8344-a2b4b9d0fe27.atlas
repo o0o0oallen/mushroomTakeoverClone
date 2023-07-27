@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 1098,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiguang00
+  rotate: false
+  xy: 0, 0
+  size: 716, 619
+  orig: 719, 619
+  offset: 0, 0
+  index: -1
+beiguang01
+  rotate: false
+  xy: 718, 108
+  size: 380, 511
+  orig: 380, 511
+  offset: 0, 0
+  index: -1

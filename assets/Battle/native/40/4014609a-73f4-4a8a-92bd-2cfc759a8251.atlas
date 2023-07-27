@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 592,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+削弱/Comp 1/xueruo_00000
+  rotate: true
+  xy: 397, 334
+  size: 79, 74
+  orig: 136, 155
+  offset: 26, 0
+  index: -1
+削弱/Comp 1/xueruo_00002
+  rotate: true
+  xy: 204, 417
+  size: 134, 98
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+削弱/Comp 1/xueruo_00004
+  rotate: false
+  xy: 342, 166
+  size: 136, 142
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+削弱/Comp 1/xueruo_00006
+  rotate: false
+  xy: 204, 159
+  size: 136, 145
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+削弱/Comp 1/xueruo_00008
+  rotate: true
+  xy: 314, 415
+  size: 136, 149
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+削弱/Comp 1/xueruo_00010
+  rotate: true
+  xy: 159, 2
+  size: 136, 153
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+削弱/Comp 1/xueruo_00012
+  rotate: true
+  xy: 2, 2
+  size: 136, 155
+  orig: 136, 155
+  offset: 0, 0
+  index: -1
+削弱/Comp 1/xueruo_00014
+  rotate: false
+  xy: 314, 8
+  size: 132, 149
+  orig: 136, 155
+  offset: 4, 6
+  index: -1
+削弱/Comp 1/xueruo_00016
+  rotate: true
+  xy: 448, 42
+  size: 122, 140
+  orig: 136, 155
+  offset: 8, 15
+  index: -1
+削弱/Comp 1/xueruo_00018
+  rotate: false
+  xy: 465, 419
+  size: 118, 132
+  orig: 136, 155
+  offset: 10, 23
+  index: -1
+削弱/Comp 1/xueruo_00020
+  rotate: false
+  xy: 480, 221
+  size: 110, 118
+  orig: 136, 155
+  offset: 14, 35
+  index: -1
+削弱/Comp 1/xueruo_00022
+  rotate: false
+  xy: 204, 306
+  size: 97, 109
+  orig: 136, 155
+  offset: 21, 43
+  index: -1
+削弱/Comp 1/xueruo_00024
+  rotate: false
+  xy: 303, 310
+  size: 92, 103
+  orig: 136, 155
+  offset: 24, 44
+  index: -1
+削弱/Comp 1/xueruo_00026
+  rotate: false
+  xy: 473, 341
+  size: 70, 76
+  orig: 136, 155
+  offset: 32, 56
+  index: -1
+削弱/dun
+  rotate: false
+  xy: 2, 140
+  size: 200, 204
+  orig: 205, 205
+  offset: 3, 0
+  index: -1
+削弱/gongji
+  rotate: true
+  xy: 2, 346
+  size: 205, 200
+  orig: 205, 205
+  offset: 0, 2
+  index: -1
