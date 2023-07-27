@@ -10835,7 +10835,7 @@
                     var n = cc.path.basename(t)
                         , r = t;
                     v.test(r) || (r = "assets/" + n);
-                    N.bundleVers[n]
+                    var a = e.version || N.bundleVers[n]
                         , s = 0
                         , o = null
                         , l = null;
