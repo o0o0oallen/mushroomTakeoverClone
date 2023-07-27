@@ -10834,7 +10834,7 @@
                 bundle: function (t, e, i) {
                     var n = cc.path.basename(t)
                         , r = t;
-                    v.test(r) || (r = "assets/" + n);
+                    v.test(r) || (r = "https://mushroom-takeover.apps.minigame.vip/assets/" + n);
                     var a = e.version || N.bundleVers[n]
                         , s = 0
                         , o = null
