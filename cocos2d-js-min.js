@@ -10834,7 +10834,7 @@
                 bundle: function (t, e, i) {
                     var n = cc.path.basename(t)
                         , r = t;
-                    v.test(r) || (r = "https://mushroom-takeover.apps.minigame.vip/assets/" + n);
+                    v.test(r) || (r = "assets/" + n);
                     var a = e.version || N.bundleVers[n]
                         , s = 0
                         , o = null
@@ -10845,7 +10845,7 @@
                             2 == ++s && i(l, o)
                     }
                     )),
-                        c("assets/" + n + +"/index." + (a ? a + "." : "") + "js", e, (function (t) {
+                        c(r + "/index." + (a ? a + "." : "") + "js", e, (function (t) {
                             t && (l = t),
                                 2 == ++s && i(l, o)
                         }
