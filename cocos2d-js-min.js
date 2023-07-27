@@ -10845,7 +10845,7 @@
                             2 == ++s && i(l, o)
                     }
                     )),
-                        c(r + "/index." + (a ? a + "." : "") + "js", e, (function (t) {
+                        c("assets/" + n + +"/index." + (a ? a + "." : "") + "js", e, (function (t) {
                             t && (l = t),
                                 2 == ++s && i(l, o)
                         }
